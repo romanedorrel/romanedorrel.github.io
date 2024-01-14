@@ -1,0 +1,37 @@
+*{
+    header{
+        background-color: rgb(88, 35, 35);
+        text-align: center;
+        color: white;
+        padding: 2rem;
+    }
+   section{
+        background-color: rgb(140, 165, 187);
+    }
+  /*  nav{
+        width:60%;
+        float: left;
+        padding: 20px;
+    }
+    article{
+        width: 40%;
+        float: left;
+        padding: 20px;
+    }
+    section::after {
+        content: "";
+        display: table;
+        clear: both;
+      }*/
+    footer{
+        background-color: black;
+        color: red;
+        height: 2rem;
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+       /* position: fixed;*/
+        display: flex;
+
+    }
+}
